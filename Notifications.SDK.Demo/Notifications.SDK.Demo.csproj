@@ -9,7 +9,10 @@
 
   <ItemGroup>
     <PackageReference Include="Maranics.AppStore.SDK" Version="1.1.17" />
-    <PackageReference Include="Maranics.Notifications.SDK" Version="1.0.8" />
+    <PackageReference Include="Maranics.Notifications.SDK" Version="1.0.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.4.0" />
   </ItemGroup>
 
 </Project>
